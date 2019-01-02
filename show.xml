@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<show>
+    <title xml:lang="en">The Big Bang Theory</title>
+    <title xml:lang="hu">Agymenők</title>
+    <imdbURL>https://www.imdb.com/title/tt0898266/</imdbURL>
+    <tmdbURL>https://www.themoviedb.org/tv/1418-the-big-bang-theory</tmdbURL>
+    <imdbRating>8.2</imdbRating>
+    <mpaaRating>TV-PG</mpaaRating>
+    <genres>
+        <genre>comedy</genre>
+        <genre>romance</genre>
+    </genres>
+    <cast role="Leonard Hofstadter">Johnny Galecki</cast>
+    <cast role="Sheldon Cooper">Jim Parsons</cast>
+    <cast role="Penny">Kaley Cuoco</cast>
+    <cast role="Howard Wolowitz">Simon Helberg </cast>
+    <cast role="Raj Koothrappali">Kunal Nayyar</cast>
+    <cast role="Amy Farrah Fowler">Mayim Bialik</cast>
+    <cast role="Bernadette Rostenkowski">Melissa Rauch</cast>
+    <cast role="Wil Wheaton">Wil Wheaton</cast>
+    <cast role="Debbie Wolowitz">Carol Ann Susi</cast>
+    <cast role="Stuart Bloom">Kevin Sussman</cast>
+    <seasons>
+        <season number="1">
+            <episodes>
+                <episode number="1">
+                    <title>Pilot</title>
+                    <airDate>2007-09-24</airDate>
+                    <summary>Brilliant physicist roommates Leonard and Sheldon meet their new
+                        neighbor Penny, who begins showing them that as much as they know about
+                        science, they know little about actual living.</summary>
+                    <events>
+                        <event>Sheldon and Leonard attempt to donate sperm</event>
+                        <event>Penny moves in to her apartment across from Leonard and
+                            Sheldon</event>
+                        <event>Leonard, Sheldon, Howard and Raj meet Penny</event>
+                        <event>Main characters introduced</event>
+                        <event>Penny showers at Leonard and Sheldon's apartment</event>
+                        <event>Sheldon's spot is introduced</event>
+                        <event>Howard knows how to say Good Shower in 6 languages</event>
+                        <event>Leonard and Sheldon attempt to get Penny's TV back from Kurt, her
+                            ex-boyfriend</event>
+                        <event>Leonard and Sheldon lose their pants to Kurt</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Leonard Hofstadter</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Rajesh Koothrappali</character>
+                        <character>Kurt</character>
+                        <character>Nurse</character>
+                    </charactersAppearing>
+                    <imdbRating>8.4</imdbRating>
+                    <runtime>P23M</runtime>
+                </episode>
+                <episode number="2">
+                    <title>The Big Bran Hypothesis</title>
+                    <airDate>2007-10-01</airDate>
+                    <summary>Leonard volunteers to sign for a package in an attempt to make a good
+                        impression on Penny, but when he enlists Sheldon for help, his attempt at
+                        chivalry goes terribly awry.</summary>
+                    <events>
+                        <event>Sheldon doesn't understand sarcasm</event>
+                        <event>Sheldon sorts his cereal by fiber content</event>
+                        <event>Sheldon cleans up Penny's apartment while she sleeps</event>
+                        <event>Leonard and Sheldon sign for Penny's furniture delivery</event>
+                        <event>Leonard and Sheldon attempt to get Penny's furniture up the
+                            stairs</event>
+                        <event>They guys start building Penny's media center and then decide it
+                            needs to be improved</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Sheldon Cooper</character>
+                        <character>Leonard Hofstadter</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Rajesh Koothrappali</character>
+                        <character>Penny</character>
+                    </charactersAppearing>
+                    <imdbRating>8.4</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="3">
+                    <title>The Fuzzy Boots Corollary</title>
+                    <airDate>2007-10-08</airDate>
+                    <summary>Leonard asks a woman out after he finds out that Penny is seeing
+                        someone.</summary>
+                    <events>
+                        <event>The guys play a major quest on World of Warcraft</event>
+                        <event>Sheldon obtains the Sword of Azeroth</event>
+                        <event>Sheldon sells the Sword of Azeroth on Ebay</event>
+                        <event>Howard buys the Sword of Azeroth from Sheldon</event>
+                        <event>Leonard asks Leslie Winkle out on a date</event>
+                        <event>Leonard asks Penny out to dinner implying it's a group dinner</event>
+                        <event>Leonard has a panic attack before dinner with Penny</event>
+                        <event>Howard and Raj test Sheldon with Asimov's Three Laws of
+                            Robotics</event>
+                        <event>Leonard hits his head on the table during dinner with Penny</event>
+                        <event>Leonard buys cat supplies</event>
+                        <event>The guys take dance lessons</event>
+                        <event>Leonard sings along to Augustana by Boston</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Sheldon Cooper</character>
+                        <character>Leonard Hofstadter</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Rajesh Koothrappali</character>
+                        <character>Penny</character>
+                        <character>Leslie Winkle</character>
+                    </charactersAppearing>
+                    <imdbRating>7.9</imdbRating>
+                    <runtime>P22M</runtime>
+                </episode>
+                <episode number="4">
+                    <title>The Luminous Fish Effect</title>
+                    <airDate>2007-10-15</airDate>
+                    <summary>Sheldon's getting fired forces him to explore what life has to offer
+                        outside physics, leaving Leonard to take drastic action to snap his friend
+                        out of his funk.</summary>
+                    <events>
+                        <event>Party at the University to welcome Dr. Gablehauser</event>
+                        <event>Sheldon gets fired for insulting Dr. Gablehauser</event>
+                        <event>Howard hires an escort as a date for the party</event>
+                        <event>Sheldon experiments with eggs</event>
+                        <event>Sheldon and Penny go grocery shopping</event>
+                        <event>Sheldon builds a 3d model of DNA for a silicon based lifeform</event>
+                        <event>Sheldon's mother visits</event>
+                        <event>Sheldon's mother takes him to apologize to Dr. Gablehauser</event>
+                        <event>Dr. Gablehauser flirts with Sheldon's mother</event>
+                        <event>Sheldon invents glow in the dark goldfish</event>
+                        <event>Sheldon's mom tells stories about him as a child</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Rajesh Koothrappali</character>
+                        <character>Penny</character>
+                        <character>Mary Cooper</character>
+                        <character>Eric Gablehauser</character>
+                    </charactersAppearing>
+                    <imdbRating>8.3</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="5">
+                    <title>The Hamburger Postulate</title>
+                    <airDate>2007-10-22</airDate>
+                    <summary>Fearing he's wasting his time on Penny, Leonard ends up making a
+                        connection with Leslie.</summary>
+                    <events>
+                        <event>Civil War re-enactment using condiments</event>
+                        <event>Leonard plays the Cello</event>
+                        <event>Howard is a human beat box</event>
+                        <event>Physic Department String Quartet practices at Leonard and Sheldon's
+                            apartment</event>
+                        <event>Leslie flirts with Leonard</event>
+                        <event>Leslie and Leonard hook up</event>
+                        <event>Sheldon doesn't understand the meaning of the tie on the
+                            doorknob</event>
+                        <event>Leslie fixes the equations on Sheldon's board</event>
+                        <event>Leonard tries to figure out what Penny means in her comments about
+                            him and Leslie</event>
+                        <event>Leonard is a magnificent beast</event>
+                        <event>When Sheldon knocks on Penny's door, he doesn't do it only 3
+                            times</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Leonard Hofstadter</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Rajesh Koothrappali</character>
+                        <character>Leslie Winkle</character>
+                    </charactersAppearing>
+                    <imdbRating>8.1</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+            </episodes>
+        </season>
+        <season number="2">
+            <episodes>
+                <episode number="1">
+                    <title>The Bad Fish Paradigm</title>
+                    <airDate>2008-09-22</airDate>
+                    <summary> Penny's first date with Leonard goes awry; Penny finds Sheldon to be
+                        an unwilling confidant.</summary>
+                    <events>
+                        <event>Leonard is in denial about what Penny's non-committal attitude toward
+                            a second date means</event>
+                        <event>Penny is afraid that Leonard will ultimately get bored with
+                            her</event>
+                        <event>Sheldon takes extreme measures to ensure that he keeps his promise to
+                            Penny</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz </character>
+                        <character>Raj Koothrappali </character>
+                    </charactersAppearing>
+                    <imdbRating>8.4</imdbRating>
+                    <runtime>P22M</runtime>
+                </episode>
+                <episode number="2">
+                    <title>The Codpiece Topology</title>
+                    <airDate>2008-09-29</airDate>
+                    <summary>A jealous Leonard reacts to Penny's new guy by rebounding with
+                        Leslie.</summary>
+                    <events>
+                        <event>Leonard does not want to admit that he felt awkward seeing Penny on a
+                            date with another man</event>
+                        <event>Leonard states to the guys that he is happy that Penny is moving on
+                            with her life, as has he</event>
+                        <event>Against Sheldon's sensibilities, Raj suggests to Leonard that he ask
+                            Leslie Winkle out again</event>
+                        <event>Leslie suggests they pursue a traditional dating ritual with the
+                            objective of marriage and children</event>
+                        <event>Sheldon tries to convince Penny to hook-up with Leonard again</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter </character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Leslie Winkle</character>
+                        <character>Eric</character>
+                    </charactersAppearing>
+                    <imdbRating>8.3</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="3">
+                    <title>The Barbarian Sublimation</title>
+                    <airDate>2008-10-06</airDate>
+                    <summary>Sheldon creates a monster when he introduces Penny to online
+                        gaming.</summary>
+                    <events>
+                        <event>Penny is having an emotional meltdown about her stay in southern
+                            California</event>
+                        <event>In her frustration, Penny accidentally swallowed a fly and got her
+                            car key stuck in her apartment door lock</event>
+                        <event>Not being able to get into her apartment until the locksmith shows
+                            up, Penny waits with Sheldon in his apartment</event>
+                        <event>Sheldon lets to Peggy try the Age of Conan: Hyborian Adventures game,
+                            and she enjoys it so much, she gets hooked</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter </character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Leslie Winkle</character>
+                        <character>Dr. Eric Gablehauser</character>
+                        <character>Blaine</character>
+                        <character>Tom</character>
+                    </charactersAppearing>
+                    <imdbRating>8.9</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="4">
+                    <title>The Griffin Equivalency</title>
+                    <airDate>2008-10-13</airDate>
+                    <summary>Raj gets an inflated ego and makes a play for Penny after being
+                        referenced in a magazine article.</summary>
+                    <events>
+                        <event>Raj has been named one of People magazine's "30 Under 30 to
+                            Watch"</event>
+                        <event>Sheldon mocks this achievement, which hurts Raj's feelings</event>
+                        <event>Raj becomes Gablehauser's new star because of the notoriety of the
+                            article and the associated money coming into the department</event>
+                        <event>Penny doesn't understand why his friends aren't providing Raj with
+                            the support he deserves</event>
+                        <event>Sheldon sees Raj's absence from the group as a potential
+                            opportunity</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Charlie Sheen</character>
+                        <character>Dr. Eric Gablehauser</character>
+                        <character>Dr. V.M. Koothrappali</character>
+                        <character>Mrs. Koothrappali</character>
+                    </charactersAppearing>
+                    <imdbRating>8.1</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="5">
+                    <title>The Euclid Alternative</title>
+                    <airDate>2008-10-20</airDate>
+                    <summary>Leonard and his friends stage an intervention to force Sheldon to face
+                        his fear of driving.</summary>
+                    <events>
+                        <event>Leonard is unable to drive Sheldon to work for the next couple of
+                            weeks</event>
+                        <event>Sheldon has run out of friends who will drive him</event>
+                        <event>Penny, Howard and Raj come up with what they think is the best
+                            solution for all: that Sheldon learn how to drive himself</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Octavia</character>
+                        <character>Maria</character>
+                        <character>Lourdes</character>
+                    </charactersAppearing>
+                    <imdbRating>8.5</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+            </episodes>
+        </season>
+        <season number="3">
+            <episodes>
+                <episode number="1">
+                    <title>The Electric Can Opener Fluctuation</title>
+                    <airDate>2009-09-21</airDate>
+                    <summary>After returning from the North Pole, a conflict among the guys sends
+                        Sheldon back to Texas and interferes with Leonard's reunion with Penny. </summary>
+                    <events>
+                        <event>Leonard, Howard and Raj make a confession to Sheldon about their
+                            participation in Sheldon's research at the North Pole.</event>
+                        <event>This confession threatens Sheldon's research, his job and his
+                            friendship with the threesome</event>
+                        <event>Sheldon's mother may at least have the answer to fixing the
+                            friendship</event>
+                        <event>Leonard is equally happy to be home to see Penny</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Mary Cooper</character>
+                        <character>Barry Kripke</character>
+                    </charactersAppearing>
+                    <imdbRating>8.5</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="2">
+                    <title>The Jiminy Conjecture</title>
+                    <airDate>2009-09-28</airDate>
+                    <summary> Leonard and Penny struggle to recover from an awkward first hookup
+                        while Sheldon and Howard stake their best comic books on a bet to determine
+                        the species of a cricket.</summary>
+                    <events>
+                        <event>After hearing a cricket chirping, Howard and Sheldon make a wager,
+                            the winner to get one of the other's favorite comic books</event>
+                        <event>The person they choose is entomology Professor "Creepy" Crawley, who
+                            is facing some issues of his own</event>
+                        <event>Leonard and Penny eventually admit to each other that their first
+                            time together as lovers was less than thrilling</event>
+                        <event>Leonard and Penny have to figure out how to overcome this problem, or
+                            if not what to do about it</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Professor Crawley</character>
+                    </charactersAppearing>
+                    <imdbRating>8.0</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="3">
+                    <title>The Gothowitz Deviation</title>
+                    <airDate>2009-10-05</airDate>
+                    <summary>Howard and Raj visit a Goth nightclub to pick up women while Sheldon
+                        attempts to build a better Penny using chocolate-based behavior
+                        modification. </summary>
+                    <events>
+                        <event>Leonard and Penny are dating, which means that Penny will be at the
+                            guys' apartment more often</event>
+                        <event>Sheldon and Penny have to come to an understanding on how to get
+                            along better.</event>
+                        <event>Sheldon's approach is to use positive reinforcement, which he plans
+                            on using to "train" Penny</event>
+                        <event>Howard is sporting a new look in preparation for his and Raj's first
+                            night out to a goth bar</event>
+                        <event>Howard and Raj are picked up by two women named Bethany and
+                            Sarah</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Bethany</character>
+                        <character>Sarah</character>
+                        <character>Skeeter</character>
+                    </charactersAppearing>
+                    <imdbRating>8.3</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="4">
+                    <title>The Pirate Solution</title>
+                    <airDate>2009-10-12</airDate>
+                    <summary>Raj must find a new job or be sent back to India, but Sheldon has a
+                        solution, which leaves Leonard and Penny dealing with Howard as a third
+                        wheel.</summary>
+                    <events>
+                        <event>Raj in particular is not in a thankful mood</event>
+                        <event>Raj's research stalled six months ago with no hope of success</event>
+                        <event>Penny comes up with the obvious solution of Raj getting another
+                            job</event>
+                        <event>Sheldon offers Raj a job</event>
+                        <event>Howard decides to hang out with Leonard and Penny</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Dr. Catherine Millstone</character>
+                        <character>Professor Laughlin</character>
+                    </charactersAppearing>
+                    <imdbRating>8.2</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="5">
+                    <title>The Creepy Candy Coating Corollary</title>
+                    <airDate>2009-10-19</airDate>
+                    <summary>After overhearing that Wil Wheaton is entering a trading-card
+                        competition, Sheldon decides to enter it himself. Meanwhile, Penny sets up
+                        one of her friends on a date with Wolowitz.</summary>
+                    <events>
+                        <event>Howard reminds Leonard of a five year old pact between the
+                            two</event>
+                        <event>Penny has to set Howard up with one of her friends</event>
+                        <event>Leonard has to tread lightly to ask Penny for this favor.</event>
+                        <event>A reluctant Penny does find someone, but she may regret it when she
+                            and Leonard go on a double date with them</event>
+                        <event>Raj tries to talk Sheldon into entering a $500 top prize Mystic
+                            Warlords of Ka'ah tournament with him to be held at the comic book
+                            shop</event>
+                        <event>Sheldon has no interest in entering because, with his eidetic memory,
+                            the game is no challenge</event>
+                        <event>Sheldon changes his mind when he learns that Wil Wheaton, number six
+                            on his arch enemy list (Wil didn't show up for a scheduled appearance at
+                            a sci-fi convention that Sheldon attended in 1995), has entered</event>
+                        <event>Sheldon's goal is to crush 'Wesley Crusher'</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Stuart Bloom</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Wil Wheaton</character>
+                    </charactersAppearing>
+                    <imdbRating>8.4</imdbRating>
+                    <runtime>P22M</runtime>
+                </episode>
+            </episodes>
+        </season>
+        <season number="4">
+            <episodes>
+                <episode number="1">
+                    <title>The Robotic Manipulation</title>
+                    <airDate>2010-09-23</airDate>
+                    <summary>Penny tags along on Sheldon's first ever date; Wolowitz finds a new use
+                        for a robotic arm.</summary>
+                    <events>
+                        <event>It's been four months since Sheldon met neuro-biologist Amy Farrah
+                            Fowler</event>
+                        <event>Although Amy and Sheldon text each other every day, they never see
+                            each other and Sheldon doesn't consider her his girlfriend</event>
+                        <event>Sheldon and Amy are thinking about having a baby together</event>
+                        <event>Penny convinces Sheldon that he should get to know the mother of his
+                            future child by going on date with Amy, this date which would be his
+                            first ever</event>
+                        <event>As Sheldon needs a ride to the date, Penny, his chauffeur, ends up
+                            accompanying him on the date, which she quickly comes to regret</event>
+                        <event>Howard has developed a mechanical arm to be used as a repair tool
+                            aboard the international space station</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Debbie Wolowitz</character>
+                        <character>Althea</character>
+                    </charactersAppearing>
+                    <imdbRating>8.8</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="2">
+                    <title>The Cruciferous Vegetable Amplification</title>
+                    <airDate>2010-09-30</airDate>
+                    <summary>Realizing he will not live long enough to download his consciousness
+                        into a robot body, Sheldon tries to extend his life span.</summary>
+                    <events>
+                        <event>After Sheldon scientifically calculates his life expectancy, he is
+                            dismayed to learn that he will be a few years short of the time when he
+                            will be able to transfer his conscious self into a robotic
+                            format</event>
+                        <event>Sheldon decides to live a healthier lifestyle</event>
+                        <event>As an incredulous Leonard, Penny, Howard and Raj look on to what
+                            Sheldon is doing, only a celebrity sighting may be able to bring Sheldon
+                            back to real life</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Steve Wozniak</character>
+                    </charactersAppearing>
+                    <imdbRating>8.5</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="3">
+                    <title>The Zazzy Substitution</title>
+                    <airDate>2010-10-07</airDate>
+                    <summary>The guys are concerned as Sheldon searches for an alternative to human
+                        companionship.</summary>
+                    <events>
+                        <event>Sheldon and Amy are spending a lot of time together</event>
+                        <event>This situation irks the gang, but especially Leonard as Sheldon's
+                            roommate, since they all detest Amy, who they consider sanctimonious and
+                            condescending</event>
+                        <event>Amy has a fundamental disagreement with sanctimonious and
+                            condescending Sheldon, leading to the two deciding to break-up despite
+                            not having been boyfriend/girlfriend</event>
+                        <event>Sheldon states that he is perfectly fine with the relationship
+                            ending, but his actions seem to imply otherwise as he replaces Amy with
+                            something else in his life</event>
+                        <event>Concerned for his friend's state of mind, Leonard calls in the one
+                            person who he believes can get through to Sheldon</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Mary Cooper</character>
+                        <character>Amy Farrah Fowler</character>
+                    </charactersAppearing>
+                    <imdbRating>8.1</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+                <episode number="4">
+                    <title>The Hot Troll Deviation</title>
+                    <airDate>2010-10-14</airDate>
+                    <summary>An embarrassing secret of Wolowitz's comes to light, while Sheldon and
+                        Raj have a small war at work.</summary>
+                    <events>
+                        <event>Howard is still uncomfortable in even seeing Bernadette</event>
+                        <event>When Bernadette enters his dreams instead of his usual fantasy girl,
+                            Howard wonders if Bernadette would be willing to get back together with
+                            him despite the embarrassing reason why she broke up with him</event>
+                        <event>Penny vows to help Howard only if he discloses to her the reason for
+                            the break-up</event>
+                        <event>Howard gets a little advice from two other unlikely sources</event>
+                        <event>Raj is mad at Sheldon for not letting him have a desk in their shared
+                            office</event>
+                        <event>Raj decides to exact his own form of revenge, which escalates into an
+                            all out office war</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Katee Sackhoff</character>
+                        <character>George Takei</character>
+                        <character>Debbie Wolowitz</character>
+                    </charactersAppearing>
+                    <imdbRating>8.2</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="5">
+                    <title>The Desperation Emanation</title>
+                    <airDate>2010-10-21</airDate>
+                    <summary>Leonard realizes he’s the only one without a girlfriend, while Sheldon
+                        wants to get rid of his.</summary>
+                    <events>
+                        <event>Leonard is the only one of the group who is currently without a
+                            significant female in his life</event>
+                        <event>Leonard reluctantly invokes the girlfriend clause in his friendship
+                            with Howard, meaning that Bernadette needs to find him a
+                            girlfriend</event>
+                        <event>Sheldon fears that Amy's request for him to meet her mother is her
+                            way of saying that she wants them to become boyfriend/girlfriend
+                            officially</event>
+                        <event>Sheldon does whatever he can to eliminate Amy from his life except by
+                            telling her directly</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Stuart Bloom</character>
+                        <character>Debbie Wolowitz </character>
+                        <character>Joy</character>
+                        <character>Mrs. Fowler</character>
+                    </charactersAppearing>
+                    <imdbRating>7.9</imdbRating>
+                    <runtime>P21M</runtime>
+                </episode>
+            </episodes>
+        </season>
+        <season number="5">
+            <episodes>
+                <episode number="1">
+                    <title>The Skank Reflex Analysis</title>
+                    <airDate>2011-09-22</airDate>
+                    <summary>Penny is worried with how damaged her friendship with the guys will be
+                        in the aftermath of her sleeping with Raj while Sheldon becomes the leader
+                        of the paintball team. </summary>
+                    <events>
+                        <event>Raj believes he's in love with Penny</event>
+                        <event>Leonard is mad at Raj for sleeping with his old girlfriend</event>
+                        <event>Leonard turns to an unlikely source for advice about his
+                            feelings</event>
+                        <event>Howard is mad at Raj for taking his supposed place as second in line
+                            (after Leonard) in Penny's loins</event>
+                        <event>Bernadette is mad a Raj for making Howard think that there was
+                            something going on between them</event>
+                        <event>While Penny takes refuge away from the guys at Amy's, she
+                            contemplates her future, which includes thoughts of moving back to
+                            Nebraska since her acting career is no career at all</event>
+                        <event>Sheldon can only think about his leadership in the upcoming
+                            paint-ball battle against the geology department</event>
+                        <event>Sheldon's actions may unwittingly bring the friends back
+                            together</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Dr. Beverly Hofstadter</character>
+                        <character>Sandy</character>
+                    </charactersAppearing>
+                    <imdbRating>8.2</imdbRating>
+                    <runtime>P22M</runtime>
+                </episode>
+                <episode number="2">
+                    <title>The Infestation Hypothesis</title>
+                    <airDate>2011-09-22</airDate>
+                    <summary>A fight between Sheldon and Penny leaves Amy caught in the middle,
+                        while Leonard tries to spice up his long-distance relationship with
+                        Priya.</summary>
+                    <events>
+                        <event>Priya and Leonard decide to try having a long distance relationship,
+                            which includes Skyping each other on a regular basis</event>
+                        <event>Howard suggests that they take that communication one step further by
+                            having high speed on-line sex with each other</event>
+                        <event>While Leonard and Priya are talking on-line, Sheldon takes refuge in
+                            Penny's apartment</event>
+                        <event>Sheldon is in love with how comfortable Penny's new chair is, until
+                            he finds out that it is a used chair that she found discarded on the
+                            street</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Priya Koothrappali</character>
+                        <character>Dr. V.M. Koothrappali</character>
+                        <character>Mrs. Koothrappali</character>
+                    </charactersAppearing>
+                    <imdbRating>8.2</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="3">
+                    <title>The Pulled Groin Extrapolation</title>
+                    <airDate>2011-09-29</airDate>
+                    <summary>Leonard and Amy get to know each other better, while Howard and
+                        Bernadette spend the weekend with Mrs. Wolowitz.</summary>
+                    <events>
+                        <event>Leonard and Amy are the unlikely pair left alone at the apartment as
+                            everyone else goes off for the evening</event>
+                        <event>At the reception, Amy, who "whored" herself up to meet her perception
+                            of social convention, is the one of the two who tries to enjoy their
+                            time together in this social setting</event>
+                        <event>Leonard ultimately appreciates Amy's attempts</event>
+                        <event>Amy and Sheldon misinterpret Leonard's appreciation</event>
+                        <event>Howard tells a disbelieving Bernadette that he expects them to live
+                            with his mother in her house after they're married</event>
+                        <event>After an argument, Bernadette at least agrees to go through a trial
+                            weekend at the Wolowitz house</event>
+                        <event>Sheldon is off in his own literally little world as he plays with his
+                            new HO model train set</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Debbie Wolowitz</character>
+                    </charactersAppearing>
+                    <imdbRating>7.9</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="4">
+                    <title>The Wiggly Finger Catalyst</title>
+                    <airDate>2011-10-06</airDate>
+                    <summary>Penny plays Matchmaker for Raj, which results in him finding a girl he
+                        is comfortable talking to.</summary>
+                    <events>
+                        <event>Everyone, including Raj himself, is feeling sorry for Raj not having
+                            a girlfriend</event>
+                        <event>Penny, however, thinks she's come up with the perfect girl who at
+                            least gets around that talking issue</event>
+                        <event>Emily, who Penny knows solely from her spin class, is deaf</event>
+                        <event>Raj quickly falls head over heals in love with her, and the gang
+                            believes Emily has fallen head over heels in love with Raj</event>
+                        <event>As the one who got Raj into the relationship, Penny feels she has to
+                            take whatever measure necessary to get him out of it</event>
+                        <event>Sheldon is leaving all trivial decisions of his life literally up to
+                            the roll of the dice</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Emily</character>
+                        <character>Dr. V.M. Koothrappali</character>
+                        <character>Mrs. Koothrappali</character>
+                    </charactersAppearing>
+                    <imdbRating>8.0</imdbRating>
+                    <runtime>P20M</runtime>
+                </episode>
+                <episode number="5">
+                    <title>The Russian Rocket Reaction</title>
+                    <airDate>2011-10-13</airDate>
+                    <summary>Sheldon and Leonard get invited to a party at Wil Wheaton's house, and
+                        Howard gets an out-of-this-world opportunity.</summary>
+                    <events>
+                        <event>Leonard and Sheldon are invited by Wil Wheaton to a party at his
+                            house</event>
+                        <event>Leonard has every intention of going, which may place his and
+                            Sheldon's friendship on shaky ground as Wil is still on Sheldon's arch
+                            enemy list</event>
+                        <event>Howard, whose project has been chosen by NASA for the International
+                            Space Station, has been asked by them to go on a three week mission to
+                            the station</event>
+                        <event>Bernadette uses a tactic to convince Howard not to go, but that
+                            tactic may actually paint Bernadette as the bad guy</event>
+                    </events>
+                    <charactersAppearing>
+                        <character>Leonard Hofstadter</character>
+                        <character>Sheldon Cooper</character>
+                        <character>Penny</character>
+                        <character>Howard Wolowitz</character>
+                        <character>Raj Koothrappali</character>
+                        <character>Amy Farrah Fowler</character>
+                        <character>Bernadette Rostenkowski</character>
+                        <character>Wil Wheaton</character>
+                        <character>Debbie Wolowitz</character>
+                        <character>Stuart Bloom</character>
+                    </charactersAppearing>
+                    <imdbRating>8.2</imdbRating>
+                    <runtime>P22M</runtime>
+                </episode>
+            </episodes>
+        </season>
+    </seasons>
+</show>
