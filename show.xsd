@@ -58,7 +58,6 @@
                     </xs:complexType>
                 </xs:element>    
             </xs:sequence>
-            <xs:attribute name="id" type="imdbId" use="required"></xs:attribute>
         </xs:complexType>
     </xs:element>
 
@@ -101,7 +100,7 @@
     </xs:simpleType>
     
     <xs:simpleType name="number">
-        <xs:restriction base="xs:decimal">
+        <xs:restriction base="xs:nonNegativeInteger">
             <xs:minInclusive value="1"></xs:minInclusive>
         </xs:restriction>
     </xs:simpleType>
