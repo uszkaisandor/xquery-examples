@@ -1,4 +1,4 @@
-(: All the events that mention both Leonard and Sheldon :)
+(: All events that mention both Leonard and Sheldon :)
 
 let $show := doc("../show.xml")
 
