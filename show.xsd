@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.1">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+        schemaLocation="http://www.w3.org/2001/xml.xsd" />
+    
+    <xs:element name="show">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                                <xs:attribute ref="xml:lang" fixed="en" use="required"/>
+                            </xs:extension>
+                        </xs:simpleContent>
+                    </xs:complexType> 
+                </xs:element>
+                <xs:element name="imdbURL" type="xs:anyURI"></xs:element>
+                <xs:element name="tmdbURL" type="xs:anyURI"></xs:element> 
+                <xs:element name="imdbRating" type="ratingType"></xs:element>              
+                <xs:element name="mpaaRating" type="xs:token" minOccurs="1" maxOccurs="1"></xs:element>
+                <xs:element name="genres" minOccurs="1" maxOccurs="1"> 
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="genre" type="xs:token" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="cast" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                                <xs:attribute name="role" use="required"/>
+                            </xs:extension>
+                        </xs:simpleContent>
+                    </xs:complexType> 
+                </xs:element>
+                <xs:element name="seasons" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="season" minOccurs="1" maxOccurs="unbounded">
+                                <xs:complexType>            
+                                    <xs:sequence>
+                                        <xs:element name="episodes" minOccurs="1" maxOccurs="1">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element ref="episode" minOccurs="1" maxOccurs="unbounded"></xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="number" type="number" use="required"/>                                     
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>    
+            </xs:sequence>
+            <xs:attribute name="id" type="imdbId" use="optional"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+    
+    <xs:element name="episode">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+                <xs:element name="airDate" type="xs:date" minOccurs="1" maxOccurs="1"></xs:element>
+                <xs:element name="summary" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+                <xs:element name="events" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="event" type="xs:string" minOccurs="1" maxOccurs="unbounded"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="charactersAppearing" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="character" type="xs:string" minOccurs="1" maxOccurs="unbounded"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="imdbRating" type="ratingType" minOccurs="1" maxOccurs="1"></xs:element>
+                <xs:element name="runtime" type="xs:duration"></xs:element>
+            </xs:sequence>
+            <xs:attribute name="number" type="number" use="optional"/>
+            <xs:attribute name="id" type="imdbId" use="optional"/>
+        </xs:complexType>
+    </xs:element>
+    
+    
+    <xs:simpleType name="ratingType">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="10"/>
+            <xs:fractionDigits value="2"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="number">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="1"></xs:minInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+    
+   
+    <xs:simpleType name="imdbId">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{7}"/>
+        </xs:restriction>
+    </xs:simpleType>
+   
+</xs:schema>
