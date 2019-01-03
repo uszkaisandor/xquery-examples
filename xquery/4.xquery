@@ -8,6 +8,6 @@ return document {
             for $episode in $show//episode
             order by $episode/imdbRating descending
             return $episode
-        return $sorted-episodes[position() <= 5]
+        return $sorted-episodes[position() <= 3]
     }
 }
