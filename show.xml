@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--  Data sources: 
+        https://www.imdb.com/title/tt0898266/ 
+        https://www.themoviedb.org/tv/1418-the-big-bang-theory?language=en-US 
+-->
+
 <show xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:noNamespaceSchemaLocation="show.xsd">
     <title xml:lang="en">The Big Bang Theory</title>
