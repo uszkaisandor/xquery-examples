@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<show>
+<show xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="show.xsd">
     <title xml:lang="en">The Big Bang Theory</title>
-    <title xml:lang="hu">Agymenők</title>
     <imdbURL>https://www.imdb.com/title/tt0898266/</imdbURL>
     <tmdbURL>https://www.themoviedb.org/tv/1418-the-big-bang-theory</tmdbURL>
     <imdbRating>8.2</imdbRating>
@@ -23,7 +23,7 @@
     <seasons>
         <season number="1">
             <episodes>
-                <episode number="1">
+                <episode number="1" id="1091289">
                     <title>Pilot</title>
                     <airDate>2007-09-24</airDate>
                     <summary>Brilliant physicist roommates Leonard and Sheldon meet their new
@@ -54,7 +54,7 @@
                     <imdbRating>8.4</imdbRating>
                     <runtime>P23M</runtime>
                 </episode>
-                <episode number="2">
+                <episode number="2" id="1091289">
                     <title>The Big Bran Hypothesis</title>
                     <airDate>2007-10-01</airDate>
                     <summary>Leonard volunteers to sign for a package in an attempt to make a good
@@ -80,7 +80,7 @@
                     <imdbRating>8.4</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="3">
+                <episode number="3" id="1091290">
                     <title>The Fuzzy Boots Corollary</title>
                     <airDate>2007-10-08</airDate>
                     <summary>Leonard asks a woman out after he finds out that Penny is seeing
@@ -111,7 +111,7 @@
                     <imdbRating>7.9</imdbRating>
                     <runtime>P22M</runtime>
                 </episode>
-                <episode number="4">
+                <episode number="4" id="1091291">
                     <title>The Luminous Fish Effect</title>
                     <airDate>2007-10-15</airDate>
                     <summary>Sheldon's getting fired forces him to explore what life has to offer
@@ -142,7 +142,7 @@
                     <imdbRating>8.3</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="5">
+                <episode number="5" id="1091292">
                     <title>The Hamburger Postulate</title>
                     <airDate>2007-10-22</airDate>
                     <summary>Fearing he's wasting his time on Penny, Leonard ends up making a
@@ -179,7 +179,7 @@
         </season>
         <season number="2">
             <episodes>
-                <episode number="1">
+                <episode number="1" id="1256599">
                     <title>The Bad Fish Paradigm</title>
                     <airDate>2008-09-22</airDate>
                     <summary> Penny's first date with Leonard goes awry; Penny finds Sheldon to be
@@ -202,7 +202,7 @@
                     <imdbRating>8.4</imdbRating>
                     <runtime>P22M</runtime>
                 </episode>
-                <episode number="2">
+                <episode number="2" id="1256030">
                     <title>The Codpiece Topology</title>
                     <airDate>2008-09-29</airDate>
                     <summary>A jealous Leonard reacts to Penny's new guy by rebounding with
@@ -230,7 +230,7 @@
                     <imdbRating>8.3</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="3">
+                <episode number="3" id="1256034">
                     <title>The Barbarian Sublimation</title>
                     <airDate>2008-10-06</airDate>
                     <summary>Sheldon creates a monster when he introduces Penny to online
@@ -259,7 +259,7 @@
                     <imdbRating>8.9</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="4">
+                <episode number="4" id="1256035">
                     <title>The Griffin Equivalency</title>
                     <airDate>2008-10-13</airDate>
                     <summary>Raj gets an inflated ego and makes a play for Penny after being
@@ -289,7 +289,7 @@
                     <imdbRating>8.1</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="5">
+                <episode number="5" id="1256036">
                     <title>The Euclid Alternative</title>
                     <airDate>2008-10-20</airDate>
                     <summary>Leonard and his friends stage an intervention to force Sheldon to face
@@ -318,7 +318,7 @@
         </season>
         <season number="3">
             <episodes>
-                <episode number="1">
+                <episode number="1" id="1487706">
                     <title>The Electric Can Opener Fluctuation</title>
                     <airDate>2009-09-21</airDate>
                     <summary>After returning from the North Pole, a conflict among the guys sends
@@ -344,7 +344,7 @@
                     <imdbRating>8.5</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="2">
+                <episode number="2" id="1495238">
                     <title>The Jiminy Conjecture</title>
                     <airDate>2009-09-28</airDate>
                     <summary> Leonard and Penny struggle to recover from an awkward first hookup
@@ -371,7 +371,7 @@
                     <imdbRating>8.0</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="3">
+                <episode number="3" id="1494210">
                     <title>The Gothowitz Deviation</title>
                     <airDate>2009-10-05</airDate>
                     <summary>Howard and Raj visit a Goth nightclub to pick up women while Sheldon
@@ -402,7 +402,7 @@
                     <imdbRating>8.3</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="4">
+                <episode number="4" id="1523181">
                     <title>The Pirate Solution</title>
                     <airDate>2009-10-12</airDate>
                     <summary>Raj must find a new job or be sent back to India, but Sheldon has a
@@ -428,7 +428,7 @@
                     <imdbRating>8.2</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="5">
+                <episode number="5" id="1528188">
                     <title>The Creepy Candy Coating Corollary</title>
                     <airDate>2009-10-19</airDate>
                     <summary>After overhearing that Wil Wheaton is entering a trading-card
@@ -468,7 +468,7 @@
         </season>
         <season number="4">
             <episodes>
-                <episode number="1">
+                <episode number="1" id="1632224">
                     <title>The Robotic Manipulation</title>
                     <airDate>2010-09-23</airDate>
                     <summary>Penny tags along on Sheldon's first ever date; Wolowitz finds a new use
@@ -500,7 +500,7 @@
                     <imdbRating>8.8</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="2">
+                <episode number="2" id="1632235">
                     <title>The Cruciferous Vegetable Amplification</title>
                     <airDate>2010-09-30</airDate>
                     <summary>Realizing he will not live long enough to download his consciousness
@@ -526,7 +526,7 @@
                     <imdbRating>8.5</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="3">
+                <episode number="3" id="1632240">
                     <title>The Zazzy Substitution</title>
                     <airDate>2010-10-07</airDate>
                     <summary>The guys are concerned as Sheldon searches for an alternative to human
@@ -557,7 +557,7 @@
                     <imdbRating>8.1</imdbRating>
                     <runtime>P21M</runtime>
                 </episode>
-                <episode number="4">
+                <episode number="4" id="1632241">
                     <title>The Hot Troll Deviation</title>
                     <airDate>2010-10-14</airDate>
                     <summary>An embarrassing secret of Wolowitz's comes to light, while Sheldon and
@@ -589,7 +589,7 @@
                     <imdbRating>8.2</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="5">
+                <episode number="5" id="1632242">
                     <title>The Desperation Emanation</title>
                     <airDate>2010-10-21</airDate>
                     <summary>Leonard realizes he’s the only one without a girlfriend, while Sheldon
@@ -625,7 +625,7 @@
         </season>
         <season number="5">
             <episodes>
-                <episode number="1">
+                <episode number="1" id="1980710">
                     <title>The Skank Reflex Analysis</title>
                     <airDate>2011-09-22</airDate>
                     <summary>Penny is worried with how damaged her friendship with the guys will be
@@ -662,7 +662,7 @@
                     <imdbRating>8.2</imdbRating>
                     <runtime>P22M</runtime>
                 </episode>
-                <episode number="2">
+                <episode number="2" id="2033019">
                     <title>The Infestation Hypothesis</title>
                     <airDate>2011-09-22</airDate>
                     <summary>A fight between Sheldon and Penny leaves Amy caught in the middle,
@@ -693,7 +693,7 @@
                     <imdbRating>8.2</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="3">
+                <episode number="3" id="2057241">
                     <title>The Pulled Groin Extrapolation</title>
                     <airDate>2011-09-29</airDate>
                     <summary>Leonard and Amy get to know each other better, while Howard and
@@ -726,7 +726,7 @@
                     <imdbRating>7.9</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="4">
+                <episode number="4" id="2058495">
                     <title>The Wiggly Finger Catalyst</title>
                     <airDate>2011-10-06</airDate>
                     <summary>Penny plays Matchmaker for Raj, which results in him finding a girl he
@@ -759,7 +759,7 @@
                     <imdbRating>8.0</imdbRating>
                     <runtime>P20M</runtime>
                 </episode>
-                <episode number="5">
+                <episode number="5" id="2063481">
                     <title>The Russian Rocket Reaction</title>
                     <airDate>2011-10-13</airDate>
                     <summary>Sheldon and Leonard get invited to a party at Wil Wheaton's house, and
