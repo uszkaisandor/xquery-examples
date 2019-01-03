@@ -1,6 +1,4 @@
-(: Select the title element of all episodes :)
+(: Select the main characters :)
 xquery version "3.1";
-declare namespace xsi = "http://www.w3.org/2001/XMLSchema-instance";
 
-
-doc("../show.xml")//episode/title
+doc("../show.xml")/show/cast
