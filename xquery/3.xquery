@@ -1,5 +1,7 @@
-(: Title of the episodes with IMDB rating < 8.0 :)
+(: Title of the episodes with IMDB rating < 8.0 ordered by ascending :)
 xquery version "3.1";
 
-for $item in doc("../show.xml")//episode[imdbRating < 8.0]
-return ('&#xa;', $item/title/text())
+for $episode in doc("../show.xml")//episode
+where $episode/imdbRating < 8.0
+order by $episode/title
+return ('&#xa;', $episode/title/text())
