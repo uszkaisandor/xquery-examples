@@ -9,5 +9,5 @@ return map:merge(
 for $season in $show//season
 group by $number := $season/@number
 return map:entry($season/@number, 
-    format-number(avg($season//episode/imdbRating), '0.00' ))
+    format-number(avg($season/episodes/episode/imdbRating), '0.00' ))
 )
